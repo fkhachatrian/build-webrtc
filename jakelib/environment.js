@@ -16,6 +16,8 @@ var GYP_DEFINES = [
   'use_x11=0',
   'include_examples=0',
   'include_tests=0',
+  'include_pulse_audio=0',
+  'include_internal_video_render=0',
   'fastbuild=1',
   'remove_webcore_debug_symbols=1'
 ];
